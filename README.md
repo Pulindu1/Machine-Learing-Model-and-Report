@@ -1,0 +1,1 @@
+ created 2 machine learning models for the CBD diabetes dataset to predict whether a patient has diabetes. The purpose was to have an accurate enough model to possibly use in industry alongside nurses. Although the accuracy wasn't high enough for that, I made a lot of progress and learn't a lot of techniques.
